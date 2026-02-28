@@ -3,7 +3,7 @@ module github.com/yarlson/chiprom
 go 1.20
 
 require (
-	github.com/go-chi/chi/v5 v5.0.10
+	github.com/go-chi/chi/v5 v5.2.2
 	github.com/prometheus/client_golang v1.16.0
 )
 
